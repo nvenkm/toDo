@@ -1,42 +1,22 @@
 [
   {
     "id": 1,
-    "text": "I came",
-    "completed": true
+    "text": "Eat",
+    "completed": false
   },
   {
     "id": 2,
-    "text": "I saw",
-    "completed": true
+    "text": "Sleep",
+    "completed": false
   },
   {
     "id": 3,
-    "text": "I praise the lord",
-    "completed": true
+    "text": "Code",
+    "completed": false
   },
   {
     "id": 4,
-    "text": "Then break the law",
-    "completed": false
-  },
-  {
-    "id": 5,
-    "text": "I take What's mine",
-    "completed": false
-  },
-  {
-    "id": 6,
-    "text": "Then take some more",
-    "completed": false
-  },
-  {
-    "id": 7,
-    "text": "It Rains",
-    "completed": false
-  },
-  {
-    "id": 8,
-    "text": "It Pours",
+    "text": "Repeat",
     "completed": false
   }
 ]
