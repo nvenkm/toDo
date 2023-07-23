@@ -2,17 +2,17 @@
   {
     "id": 1,
     "text": "I came",
-    "completed": false
+    "completed": true
   },
   {
     "id": 2,
     "text": "I saw",
-    "completed": false
+    "completed": true
   },
   {
     "id": 3,
     "text": "I praise the lord",
-    "completed": false
+    "completed": true
   },
   {
     "id": 4,

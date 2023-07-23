@@ -101,6 +101,7 @@ function toggleComplete(taskId, completed) {
     .then((data) => {
       //select the task that we modifies
       const taskItem = document.querySelector(`li[data-task-id="${taskId}"]`);
+      taskItem.classList.toggle("completed-list");
       taskItem.firstElementChild.classList.toggle("completed", completed);
     })
     .catch((error) => console.error("Error updating task:", error));

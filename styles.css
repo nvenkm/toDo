@@ -86,6 +86,10 @@ button:hover {
   background-color: #c9f7e8;
   text-decoration: line-through;
 }
+.completed-list {
+  background-color: #c9f7e8;
+  /* text-decoration: line-through; */
+}
 
 .deleteBtn,
 .completeBtn {
