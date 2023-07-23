@@ -14,7 +14,6 @@ Install express and body-parser
 
 ```bash
   npm i express
-  npm i body-parser
 ```
 
 Run the Server
